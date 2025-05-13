@@ -188,7 +188,11 @@ final page
 <img style="width: 178px; height: 137px" src="https://placehold.co/178x137" />
 ```
 ## OUTPUT:
-
+![alt text](<Screenshot 2025-05-13 080529.png>)
+![alt text](<Screenshot 2025-05-13 111631-1.png>) 
+![alt text](<Screenshot 2025-05-13 111631-4.png>)
+![alt text](<Screenshot 2025-05-13 111653.png>)
+![alt text](<Screenshot 2025-05-13 111713.png>)
 
 
 
