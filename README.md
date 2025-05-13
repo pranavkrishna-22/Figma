@@ -189,15 +189,6 @@ final page
 ```
 ## OUTPUT:
 
-![Screenshot 2025-05-13 080529](https://github.com/user-attachments/assets/1836e483-05ec-40d7-82e8-0077d35d38dd)
-
-![Screenshot 2025-05-13 111631](https://github.com/user-attachments/assets/b4a48118-9400-4a1a-967b-078d4fef59f9)
-
-![Screenshot 2025-05-13 111640](https://github.com/user-attachments/assets/fb7274f1-d8de-4eda-8dd1-3b13946c57ab)
-
-![Screenshot 2025-05-13 111653](https://github.com/user-attachments/assets/cd814b98-bb2b-4f72-b93f-81db0f60a8a5)
-
-![Screenshot 2025-05-13 111713](https://github.com/user-attachments/assets/56705c68-fbd6-468b-a048-4150c4807616)
 
 
 
