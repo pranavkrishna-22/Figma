@@ -1,6 +1,7 @@
 # Ex09 Event Registration Web Application
-## 212224040313
-## Date:13.05.2025
+## Name:Pranav krishna T
+## 212224040241
+## Date:14.05.2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -188,11 +189,23 @@ final page
 <img style="width: 178px; height: 137px" src="https://placehold.co/178x137" />
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-13 080529.png>)
-![alt text](<Screenshot 2025-05-13 111631-1.png>) 
-![alt text](<Screenshot 2025-05-13 111631-4.png>)
-![alt text](<Screenshot 2025-05-13 111653.png>)
-![alt text](<Screenshot 2025-05-13 111713.png>)
+![out1](https://github.com/user-attachments/assets/538fe760-1658-4416-97b1-54fcd4a8d323)
+
+
+![out2](https://github.com/user-attachments/assets/5fcf3f9d-fb93-4bf8-be56-be14d143621a)
+
+
+
+![out3](https://github.com/user-attachments/assets/ecd3e757-425a-49f7-a53a-bce69df127f6)
+
+
+![out4](https://github.com/user-attachments/assets/37a23391-a55c-4377-8335-befbe37fea2a)
+
+
+![out5](https://github.com/user-attachments/assets/652bd6ae-707c-4680-abb2-abe385b094db)
+
+
+
 
 
 
